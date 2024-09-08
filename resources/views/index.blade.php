@@ -386,7 +386,7 @@
                 </div>
 
                 <section class="  flex items-center justify-center ">
-                    <div class="text-center max-w-md px-6">
+                    <div class="text-center max-w-md px-6" data-aos="fade-up-right">
                       <h1 class="text-5xl font-bold text-white mb-4">Get Started</h1>
                       <p class="text-lg text-gray-400 mb-6">Take the first step towards your success. Join our platform today.</p>
                       <button class="transform rounded-full border-2 border-gray-700 bg-white px-8 py-3 text-lg font-semibold text-gray-900 transition-transform duration-300 ease-in-out hover:scale-105 hover:bg-gray-800 hover:text-white hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-700">
